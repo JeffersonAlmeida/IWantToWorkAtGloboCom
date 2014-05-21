@@ -1,19 +1,118 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+##### Vagas Selecionadas
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+	* [ Área de Jornalismo ]
+	* [ Área de Semântica ]
+	* [ Tsuru: Plataforma como serviço ]	
+	* [ Plataforma de Cadastro ]
+	* [ Plataforma de Personalização ]
+	* [ Plataforma de Comentários ]
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+###PERSONAL INFORMATION
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+##### Jefferson Rodrigues de Almeida
+
+	* phone: + 55 81 9905 7201
+	* E-mail: jra@cin.ufpe.br
+	* Skype: almeidajefferson
+	* Date of birth: 30 Mar 89 | Nationality: Brazilian
+
+###EDUCATION AND TRAINING
+
+##### MSc in Software Engineering
+ 
+	* Goal: To propose tools for checking safe evolution of Software Product Lines
+	to increase development productivity and customer satisfaction.
+	* University: Center for Informatics - Federal University Of Pernambuco. www.cin.ufpe.br
+	* Advisor: Paulo Borba. http://www.cin.ufpe.br/~phmb/
+	* Working Time: 01 January 2012 – 30 March 2014
+	
+	Main subjects - Grade
+
+	* Advanced Topics in Software Engineering 3 - A
+	* Advanced Topics in Programming Languages 2 - A
+	* Management and Systems Integration - A
+	* Programming Paradigms - A
+
+##### B.Sc in Computer Science
+	* University: Federal University Of Uberlandia. www.ufu.br
+	* Working Time: 01 January 2009 – 30 December 2011
+
+##### Winter Course in Introduction to Space Technologies
+	
+	Brazilian National Institute for Space Research – INPE (http://www.inpe.br/)
+
+	* We had 32 lectures in the following areas: Computer Science, Engineering, Space Science, and Earth Observation. 
+	Additionally, we had a short-term technical internship.
+	* Student Evaluation: Excellent
+	* Working Time: Winter of 2010 
+
+###WORK EXPERIENCE
+
+##### Mobile Test Engineer
+	
+	Motorola Mobility - Brazil Test Center
+
+	* Responsible for stability testing of Motorola phones. Ability to script the test suites, monitor the execution,
+	and manage / analyze / present / and triage the results. Increase efficiency and consistency in test execution while
+	also innovating to help debug particularly difficult issues. Identify and drive major improvements.
+	* Training in Mobile Application Development - Grade Average: Higher than 80%
+	* Working Time: 12 September 2011 – 31 May 2012 
+
+##### Scientific Initiation Scholarship Holder – Research Project
+
+	Brazilian Government - CNPq ( http://www.cnpq.br/)
+
+	* Goal: To study the applicability of the information retrieval technique 
+	Latent Semantic Indexing (LSI) in tracking software defects.
+	* Working Time: 01 August 2010 – 01 August 2011 
+
+##### Scholarship Holder for Monitor Disciplines - Functional Programming with Haskell
+	
+	Brazilian Government - CNPq ( http://www.cnpq.br/)
+
+	* Goal: To assist the student staff, under the supervision of a professor,
+	for guidance in laboratory and educational work and student support.
+	* Working Time: 21 February 2009 – 21 July 2009 
+
+###PERSONAL SKILLS
+	
+##### LANGUAGES
+
+	* Portuguese: Proficient User
+	* English: Proficient User
+	* French: Basic User
+
+##### COMPUTER SKILLS
+
+	* Solid Object Orientated Programming and Design Patterns background
+	* Vastly experienced in Java
+	* Some knowledge with Groovy on Grails, PHP, C, Python, Prolog, Haskell, Action Script, HTML, CSS, and XML
+	* Database Administration: MySQL, PostgreSQL, Oracle
+	* Experience of using Code Versioning tools such as SVN and GIT
+	* Frameworks and Methodologies: Experience with Eclipse RCP applications, J2EE, J2ME, Hibernate,
+	Test Driven Development / Unit tests, Selenium IDE, Rational Unified Process, UML modeling
+	* Development of Software Product Lines, Android Applications, Mobile Application Testing
+	* Easy Learning Programming Languages and passion for software development
+
+###ADDITIONAL INFORMATION
+
+##### Volunteer Work:
+      
+	* In this project, we delivered computer classes for young people from poor communities in order
+	to increase their chances in the labor market and support them to enter the federal universities.
+	  
+##### Honours and awards:
+
+	* Fastest Problem Solver: Android Programming Hackathon (Sponsored by Mobile Companies).
+      As a reward, I received a job offer.
+    * Third Best Project: The SoTeSoLa Hackathon on Reverse Engineering (Sponsored by Google).
+	
+##### Teaching Programming Languages:
+		
+	* Teaching courses on programming languages at the Federal Rural University of Pernambuco.
